@@ -1,4 +1,4 @@
-package com.unsa;
+package com.unsa.supermercado;
 
 public class Cliente {
     private String nombre;

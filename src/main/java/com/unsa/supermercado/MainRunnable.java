@@ -1,4 +1,4 @@
-package com.unsa;
+package com.unsa.supermercado;
 
 public class MainRunnable implements Runnable {
     private Cliente cliente;
