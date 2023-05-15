@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.unsa.AppTest" time="0.028" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="19"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\UNSA-Ingenieria-De-Sistemas\2023A\Sistemas Distribuidos\Laboratorio\Primera Practica\Hilos\target\test-classes;D:\UNSA-Ingenieria-De-Sistemas\2023A\Sistemas Distribuidos\Laboratorio\Primera Practica\Hilos\target\classes;C:\Users\Angel\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Angel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Lima"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="PE"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19\bin"/>
+    <property name="sun.java.command" value="C:\Users\Angel\AppData\Local\Temp\surefire9330378478278351198\surefirebooter12594154329309473474.jar C:\Users\Angel\AppData\Local\Temp\surefire9330378478278351198 2023-05-14T17-14-32_630-jvmRun1 surefire11304975459506993749tmp surefire_016019939051437956763tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\UNSA-Ingenieria-De-Sistemas\2023A\Sistemas Distribuidos\Laboratorio\Primera Practica\Hilos\target\test-classes;D:\UNSA-Ingenieria-De-Sistemas\2023A\Sistemas Distribuidos\Laboratorio\Primera Practica\Hilos\target\classes;C:\Users\Angel\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Angel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Angel"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-19"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\UNSA-Ingenieria-De-Sistemas\2023A\Sistemas Distribuidos\Laboratorio\Primera Practica\Hilos"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Angel\AppData\Local\Temp\surefire9330378478278351198\surefirebooter12594154329309473474.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="19.0.1+10-21"/>
+    <property name="user.name" value="Angel"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Angel\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Angel\AppData\Local\Temp\"/>
+    <property name="java.version" value="19.0.1"/>
+    <property name="user.dir" value="D:\UNSA-Ingenieria-De-Sistemas\2023A\Sistemas Distribuidos\Laboratorio\Primera Practica\Hilos"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Java\jdk-19\bin;D:\Oracle19c_Descomprimido\bin;D:\Oracle19c\bin;D:\OracleExpress\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Angel\AppData\Local\Programs\Python\Python39;D:\Git\cmd;D:\SQL_Server\Shared\Client SDK\ODBC\130\Tools\Binn\;D:\SQL_Server\SharedX86\140\Tools\Binn\;D:\SQL_Server\Shared\140\Tools\Binn\;D:\SQL_Server\Shared\140\DTS\Binn\;D:\SQL_Server\Shared\Client SDK\ODBC\170\Tools\Binn\;D:\SQL_Server\SharedX86\150\Tools\Binn\;D:\SQL_Server\Shared\150\Tools\Binn\;D:\SQL_Server\Shared\150\DTS\Binn\;D:\SQL_Server\SharedX86\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;D:\MatLab\bin;C:\ProgramData\chocolatey\bin;D:\NodeJs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\WINDOWS\system32;C:\Users\Angel\AppData\Local\Microsoft\WindowsApps;C:\Users\Angel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Angel\Desktop\w64devkit\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\apache-maven-3.8.6\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\Angel\AppData\Local\spicetify;C:\Users\Angel\.dotnet\tools;C:\Users\Angel\Documents\SQLite v3.40.1;C:\Users\Angel\AppData\Roaming\npm;;D:\IntelliJ Idea\Community\IntelliJ IDEA Community Edition 2023.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="19.0.1+10-21"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="63.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.unsa.AppTest" time="0.002"/>
+</testsuite>
